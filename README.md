@@ -9,7 +9,7 @@ I am xghost, a programmer and developer interested in Python, Bash, and Ruby. I 
 - **Tools**: Git
 
 ## Projects
-- [Project Name 1](project link) - Short description of the project.
+- [Fastmux](https://github.com/Xghostxdz/Fastmux) - Short description of the project.
 - [Project Name 2](project link) - Short description of the project.
 
 ## How to Reach Me
