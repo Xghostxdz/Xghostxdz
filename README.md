@@ -13,9 +13,11 @@ I am xghost, a programmer and developer interested in Python, Bash, and Ruby. I 
 - [Project Name 2](project link) - Short description of the project.
 
 ## How to Reach Me
-- **Telegram**: [https://t.me/Xg_host]
+- **Telegram**:
+- [my user](https://t.me/Xg_host)
+- [my channel](https://t.me/XTOOLPY)
 
 ## Hobbies
-When I'm not busy programming, I enjoy design and photography.
+When I'm not busy in programming, I enjoy design and photography.
 
 ## Thank You for Visiting!
