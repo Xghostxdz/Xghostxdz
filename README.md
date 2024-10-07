@@ -10,7 +10,7 @@ I am xghost, a programmer and developer interested in Python, Bash, and Ruby. I 
 
 ## Projects
 - [Fastmux](https://github.com/Xghostxdz/Fastmux) - **Fastmux** is an open source tool that makes it easy to manage multiple sessions in a terminal using bash, designed to provide a Termux-like experience.
-- [Project Name 2](project link) - Short description of the project.
+- [Instagram-email-check](https://github.com/Xghostxdz/Instagram-email-check-) - **Instagram email check** is an open source tool that creates a private Instagram email compo list .
 
 ## How to Reach Me
 - **Telegram**:
